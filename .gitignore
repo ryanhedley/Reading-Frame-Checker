@@ -1,0 +1,6 @@
+/.pytest_cache
+/.vscode
+/frame_checks_detail.txt
+/frame_checks_symbol.txt
+/Reading_Frame_Checker_obs.py
+/__pycache__
